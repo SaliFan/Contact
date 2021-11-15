@@ -1,0 +1,184 @@
+body{
+    background-color: gray;
+
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.mainbox{
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 650px;
+    margin-top: 200px;
+    margin-left: 550px;
+
+}
+
+h1{
+    margin-left: 120px;
+
+}
+
+h4{
+
+    margin-left: 105px;
+
+}
+
+i{
+    font-size: 40px;
+    margin-left: 8px;
+    margin-top: 5px;
+
+}
+
+.logos{
+    display: flex;
+    margin-left: 110px;
+
+
+}
+
+.facebook:hover{
+
+    background: rgb(0, 0, 0); color: rgb(255, 255, 255);
+
+}
+
+.facebook{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.tumblr:hover{
+
+    background: rgb(0, 0, 0); color: rgb(255, 255, 255);
+
+}
+
+.tumblr{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.linked:hover{
+
+    background: rgb(0, 0, 0); color: rgb(255, 255, 255);
+
+}
+
+.linked{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+
+
+}
+
+.leftbox{
+
+    background-color: white;
+    height: 650px;
+    width: 400px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+
+}
+
+.rightbox{ 
+        
+    background-color: rgb(95, 197, 163);
+    height: 650px;
+    width: 400px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+
+
+}
+
+input{
+    font-size: 25px;
+    display: flex;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+h3{
+    margin-left: 105px;
+
+
+}
+
+textarea{
+    margin-left: 65px;
+    height: 80px;
+    width: 270px;
+
+
+}
+
+.help{
+    display: flex;
+    margin-left: 135px;
+    width: 133px;
+    margin-top: 20px;
+    text-decoration: none; /* Убираем подчеркивание */
+    border-bottom: 1px dashed #000080; /* Добавляем свою линию */
+
+}
+
+.submit{
+    background-color: rgb(95, 197, 163);
+    margin-left: 75px;
+    width: 250px;
+    height: 60px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50px;
+
+}
+
+
+
+h3{
+    
+    margin-left: 50px;
+    width: 300px;
+    text-align: center;
+}
+
+.info{
+    margin-top: 140px;
+    margin-left: 125px;
+    width: 150px;
+    background-color: rgb(95, 197, 163);
+    border: 2px solid white;
+    border-radius: 24px;
+
+}
+
+.user{
+
+    color: rgb(240, 240, 240);
+    margin-top: 160px;
+
+
+}
+
+.text-info{
+    color: white;
+
+
+}
